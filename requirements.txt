@@ -6,3 +6,4 @@ pillow
 opencv-python
 tensorflow
 huggingface_hub
+opencv-python
