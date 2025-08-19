@@ -3,7 +3,6 @@ transformers
 torch
 torchvision
 pillow
-opencv-python
 tensorflow
 huggingface_hub
-opencv-python
+opencv-python-headless
